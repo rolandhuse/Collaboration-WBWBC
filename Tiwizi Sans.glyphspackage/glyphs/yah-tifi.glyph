@@ -1,0 +1,67 @@
+{
+color = 4;
+glyphname = "yah-tifi";
+kernLeft = "yar-tifi";
+kernRight = "yar-tifi";
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(477,20,l),
+(477,720,l),
+(333,720,l),
+(333,20,l)
+);
+},
+{
+ref = "yar-tifi";
+}
+);
+width = 809;
+},
+{
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(448,30,l),
+(448,670,l),
+(372,670,l),
+(372,30,l)
+);
+},
+{
+alignment = -1;
+ref = "yar-tifi";
+}
+);
+width = 819;
+},
+{
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(411,6,l),
+(411,694,l),
+(389,694,l),
+(389,6,l)
+);
+},
+{
+alignment = -1;
+ref = "yar-tifi";
+}
+);
+width = 799;
+}
+);
+metricLeft = "yar-tifi";
+metricRight = "yar-tifi";
+unicode = 11584;
+}

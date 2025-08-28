@@ -1,0 +1,47 @@
+{
+color = 4;
+glyphname = "yass-tifi";
+kernLeft = "yar-tifi";
+kernRight = "yar-tifi";
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+pos = (0,720);
+ref = "yarr-tifi";
+scale = (1,-1);
+}
+);
+width = 809;
+},
+{
+layerId = m004;
+shapes = (
+{
+alignment = -1;
+pos = (0,700);
+ref = "yarr-tifi";
+scale = (1,-1);
+}
+);
+width = 819;
+},
+{
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+pos = (0,700);
+ref = "yarr-tifi";
+scale = (1,-1);
+}
+);
+width = 799;
+}
+);
+metricLeft = "yar-tifi";
+metricRight = "yar-tifi";
+unicode = 11610;
+}

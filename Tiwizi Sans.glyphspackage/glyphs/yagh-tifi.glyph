@@ -1,0 +1,47 @@
+{
+color = 4;
+glyphname = "yagh-tifi";
+kernLeft = "yagh-tifi";
+kernRight = "yagh-tifi";
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (700,720);
+ref = "yaa-tifi";
+}
+);
+width = 700;
+},
+{
+layerId = m004;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (640,700);
+ref = "yaa-tifi";
+}
+);
+width = 640;
+},
+{
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (600,700);
+ref = "yaa-tifi";
+}
+);
+width = 600;
+}
+);
+metricLeft = "yaa-tifi";
+metricRight = "yaa-tifi";
+unicode = 11606;
+}

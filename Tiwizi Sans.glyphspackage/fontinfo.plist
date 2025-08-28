@@ -1,0 +1,251 @@
+{
+.appVersion = "3424";
+.formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+}
+);
+date = "2025-08-07 16:08:26 +0000";
+familyName = "Tiwizi Sans";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+";
+name = Languagesystems;
+}
+);
+fontMaster = (
+{
+axesValues = (
+200
+);
+iconName = Light;
+id = m005;
+metricValues = (
+{
+over = 10;
+pos = 800;
+},
+{
+over = 10;
+pos = 700;
+},
+{
+over = 10;
+pos = 500;
+},
+{
+over = -10;
+},
+{
+over = -10;
+pos = -200;
+},
+{
+}
+);
+name = Light;
+userData = {
+GSCornerRadius = 6;
+GSOffsetHorizontal = 15;
+GSOffsetMakeStroke = 1;
+GSOffsetVertical = 10;
+};
+},
+{
+axesValues = (
+500
+);
+id = m004;
+metricValues = (
+{
+over = 10;
+pos = 800;
+},
+{
+over = 10;
+pos = 700;
+},
+{
+over = 10;
+pos = 500;
+},
+{
+over = -10;
+},
+{
+over = -10;
+pos = -200;
+},
+{
+}
+);
+name = Regular;
+userData = {
+GSCornerRadius = 20;
+GSOffsetHorizontal = 15;
+GSOffsetMakeStroke = 1;
+GSOffsetVertical = 10;
+};
+},
+{
+axesValues = (
+700
+);
+iconName = Bold;
+id = m003;
+metricValues = (
+{
+over = 16;
+pos = 800;
+},
+{
+over = 16;
+pos = 720;
+},
+{
+over = 16;
+pos = 500;
+},
+{
+over = -16;
+},
+{
+over = -16;
+pos = -200;
+},
+{
+}
+);
+name = Bold;
+userData = {
+GSCornerRadius = 40;
+GSOffsetHorizontal = 15;
+GSOffsetMakeStroke = 1;
+GSOffsetVertical = 10;
+};
+}
+);
+instances = (
+{
+axesValues = (
+200
+);
+instanceInterpolations = {
+m004 = -1.5;
+m005 = 2.5;
+};
+name = Light;
+},
+{
+axesValues = (
+400
+);
+instanceInterpolations = {
+m004 = -0.5;
+m005 = 1.5;
+};
+name = Regular;
+},
+{
+axesValues = (
+700
+);
+instanceInterpolations = {
+m004 = 1;
+};
+name = Bold;
+},
+{
+axesValues = (
+500
+);
+instanceInterpolations = {
+m005 = 1;
+};
+name = Medium;
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = HUN;
+value = "Roland Huse Design";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = HUN;
+value = "Roland Hüse";
+}
+);
+},
+{
+key = designerURL;
+value = "https://rolandhuse.com";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "New Value";
+}
+);
+},
+{
+key = manufacturers;
+values = (
+{
+language = HUN;
+value = "Roland Hüse Design";
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://rolandhuse.com";
+}
+);
+unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"76A3ED12-FC17-44D8-BF24-CCB6BB32BC55" = {
+HH = "68";
+HV = "82";
+OH = "70";
+OV = "92";
+};
+};
+};
+versionMajor = 1;
+versionMinor = 0;
+}

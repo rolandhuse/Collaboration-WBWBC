@@ -1,0 +1,19 @@
+{
+export = 0;
+glyphname = f;
+layers = (
+{
+layerId = m003;
+width = 600;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m005;
+width = 600;
+}
+);
+unicode = 102;
+}
