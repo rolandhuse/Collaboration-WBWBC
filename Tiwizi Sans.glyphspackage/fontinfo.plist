@@ -59,6 +59,12 @@ GSOffsetVertical = 10;
 axesValues = (
 500
 );
+guides = (
+{
+angle = 180;
+pos = (135,670);
+}
+);
 id = m004;
 metricValues = (
 {
@@ -85,7 +91,7 @@ pos = -200;
 );
 name = Regular;
 userData = {
-GSCornerRadius = 20;
+GSCornerRadius = 25;
 GSOffsetHorizontal = 15;
 GSOffsetMakeStroke = 1;
 GSOffsetVertical = 10;
@@ -135,8 +141,7 @@ axesValues = (
 200
 );
 instanceInterpolations = {
-m004 = -1.5;
-m005 = 2.5;
+m005 = 1;
 };
 name = Light;
 },
@@ -145,8 +150,8 @@ axesValues = (
 400
 );
 instanceInterpolations = {
-m004 = -0.5;
-m005 = 1.5;
+m004 = 0.66667;
+m005 = 0.33333;
 };
 name = Regular;
 },
@@ -155,7 +160,7 @@ axesValues = (
 700
 );
 instanceInterpolations = {
-m004 = 1;
+m003 = 1;
 };
 name = Bold;
 },
@@ -164,7 +169,7 @@ axesValues = (
 500
 );
 instanceInterpolations = {
-m005 = 1;
+m004 = 1;
 };
 name = Medium;
 }
@@ -243,6 +248,24 @@ HH = "68";
 HV = "82";
 OH = "70";
 OV = "92";
+};
+m003 = {
+HH = "146";
+HV = "180";
+OH = "150";
+OV = "182";
+};
+m004 = {
+HH = "68";
+HV = "82";
+OH = "70";
+OV = "92";
+};
+m005 = {
+HH = "20";
+HV = "22";
+OH = "22";
+OV = "24";
 };
 };
 };
