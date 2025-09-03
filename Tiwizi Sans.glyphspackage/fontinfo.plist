@@ -22,6 +22,12 @@ fontMaster = (
 axesValues = (
 200
 );
+guides = (
+{
+locked = 1;
+pos = (329,671);
+}
+);
 iconName = Light;
 id = m005;
 metricValues = (
@@ -58,12 +64,6 @@ GSOffsetVertical = 10;
 {
 axesValues = (
 500
-);
-guides = (
-{
-angle = 180;
-pos = (135,670);
-}
 );
 id = m004;
 metricValues = (
