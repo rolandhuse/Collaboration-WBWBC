@@ -101,6 +101,12 @@ GSOffsetVertical = 10;
 axesValues = (
 700
 );
+guides = (
+{
+locked = 1;
+pos = (253,690);
+}
+);
 iconName = Bold;
 id = m003;
 metricValues = (
