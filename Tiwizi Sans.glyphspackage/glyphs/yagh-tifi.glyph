@@ -10,11 +10,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (700,720);
+pos = (718,720);
 ref = "yaa-tifi";
 }
 );
-width = 700;
+width = 718;
 },
 {
 layerId = m004;
@@ -22,11 +22,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (640,700);
+pos = (664,700);
 ref = "yaa-tifi";
 }
 );
-width = 640;
+width = 664;
 },
 {
 layerId = m005;
@@ -34,11 +34,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (600,700);
+pos = (628,700);
 ref = "yaa-tifi";
 }
 );
-width = 600;
+width = 628;
 }
 );
 metricLeft = "yaa-tifi";

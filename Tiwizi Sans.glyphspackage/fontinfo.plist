@@ -1,5 +1,5 @@
 {
-.appVersion = "3424";
+.appVersion = "3425";
 .formatVersion = 3;
 axes = (
 {
@@ -150,6 +150,7 @@ instanceInterpolations = {
 m005 = 1;
 };
 name = Light;
+weightClass = 200;
 },
 {
 axesValues = (
@@ -163,21 +164,33 @@ name = Regular;
 },
 {
 axesValues = (
+400
+);
+customParameters = (
+{
+name = Filter;
+value = "Transformations; LSB: -80; RSB: +80; ScaleX:100%; ScaleY: 100%; Slant: 10; SlantCorrection: true; OffsetX: 0; OffsetY: 0; Origin:4";
+}
+);
+instanceInterpolations = {
+m004 = 0.66667;
+m005 = 0.33333;
+};
+isItalic = 1;
+linkStyle = Regular;
+name = Oblique;
+},
+{
+axesValues = (
 700
 );
 instanceInterpolations = {
 m003 = 1;
 };
+isBold = 1;
+linkStyle = Regular;
 name = Bold;
-},
-{
-axesValues = (
-500
-);
-instanceInterpolations = {
-m004 = 1;
-};
-name = Medium;
+weightClass = 700;
 }
 );
 metrics = (

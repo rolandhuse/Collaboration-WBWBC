@@ -14,7 +14,7 @@ ref = "yarr-tifi";
 scale = (1,-1);
 }
 );
-width = 809;
+width = 825;
 },
 {
 layerId = m004;
@@ -26,7 +26,7 @@ ref = "yarr-tifi";
 scale = (1,-1);
 }
 );
-width = 819;
+width = 841;
 },
 {
 layerId = m005;
@@ -38,7 +38,7 @@ ref = "yarr-tifi";
 scale = (1,-1);
 }
 );
-width = 799;
+width = 825;
 }
 );
 metricLeft = "yar-tifi";
