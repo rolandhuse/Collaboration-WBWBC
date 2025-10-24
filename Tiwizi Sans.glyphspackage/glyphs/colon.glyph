@@ -1,0 +1,35 @@
+{
+glyphname = colon;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+closed = 0;
+nodes = (
+(10,95,l),
+(10,0,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(10,495,l),
+(10,400,l)
+);
+}
+);
+width = 20;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+metricRight = "=|";
+unicode = 58;
+}

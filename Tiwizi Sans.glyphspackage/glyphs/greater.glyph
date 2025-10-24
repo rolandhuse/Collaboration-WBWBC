@@ -1,0 +1,34 @@
+{
+glyphname = greater;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+closed = 0;
+nodes = (
+(90,566,l),
+(440,366,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(90,166,l),
+(440,366,l)
+);
+}
+);
+width = 570;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+unicode = 62;
+}

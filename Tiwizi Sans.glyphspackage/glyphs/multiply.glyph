@@ -1,0 +1,35 @@
+{
+glyphname = multiply;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+closed = 0;
+nodes = (
+(401,513,l),
+(130,218,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(132,511,l),
+(400,220,l)
+);
+}
+);
+width = 531;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+metricRight = "=|";
+unicode = 215;
+}

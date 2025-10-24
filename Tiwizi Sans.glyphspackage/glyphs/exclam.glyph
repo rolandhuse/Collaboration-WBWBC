@@ -1,0 +1,36 @@
+{
+glyphname = exclam;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+closed = 0;
+nodes = (
+(44,700,l),
+(44,227,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(44,95,l),
+(44,0,l)
+);
+}
+);
+width = 88;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+metricLeft = "=period";
+metricRight = "=|";
+unicode = 33;
+}

@@ -1,0 +1,48 @@
+{
+glyphname = numbersign;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+closed = 0;
+nodes = (
+(10,631,l),
+(10,98,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(10,631,l),
+(10,98,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(10,484,l),
+(10,484,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(10,259,l),
+(10,259,l)
+);
+}
+);
+width = 610;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+unicode = 35;
+}

@@ -1,0 +1,30 @@
+{
+export = 0;
+glyphname = asciicircum;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+closed = 0;
+nodes = (
+(90,409,l),
+(260,700,l),
+(431,409,l)
+);
+}
+);
+width = 521;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+metricRight = "=|";
+unicode = 94;
+}

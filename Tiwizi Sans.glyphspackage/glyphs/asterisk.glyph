@@ -1,0 +1,62 @@
+{
+glyphname = asterisk;
+layers = (
+{
+anchors = (
+{
+name = "#rotate";
+pos = (10,510);
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 0;
+nodes = (
+(10,700,l),
+(10,530,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(10,583,l),
+(10,531,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(10,393,l),
+(10,530,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(10,393,l),
+(10,530,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(10,583,l),
+(10,531,l)
+);
+}
+);
+width = 20;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+metricRight = "=|";
+unicode = 42;
+}

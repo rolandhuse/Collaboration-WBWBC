@@ -1,0 +1,38 @@
+{
+glyphname = braceleft;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+closed = 0;
+nodes = (
+(241,748,l),
+(-43,624,o),
+(366,374,o),
+(100,311,c)
+);
+},
+{
+closed = 0;
+nodes = (
+(100,311,l),
+(366,248,o),
+(-43,-2,o),
+(241,-126,c)
+);
+}
+);
+width = 321;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+unicode = 123;
+}

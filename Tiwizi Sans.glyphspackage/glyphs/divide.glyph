@@ -1,0 +1,41 @@
+{
+glyphname = divide;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+closed = 0;
+nodes = (
+(260,572,l),
+(260,489,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(90,366,l),
+(431,366,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(260,242,l),
+(260,159,l)
+);
+}
+);
+width = 571;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+unicode = 247;
+}

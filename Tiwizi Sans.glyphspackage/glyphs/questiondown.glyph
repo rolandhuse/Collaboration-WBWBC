@@ -1,0 +1,26 @@
+{
+glyphname = questiondown;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+alignment = 1;
+angle = 180;
+pos = (410,500);
+ref = question;
+}
+);
+width = 410;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+unicode = 191;
+}

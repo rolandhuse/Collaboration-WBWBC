@@ -1,0 +1,43 @@
+{
+export = 0;
+glyphname = micro;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+closed = 0;
+nodes = (
+(120,500,l),
+(120,-200,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(434,500,l),
+(434,234,ls),
+(434,50,o),
+(377,0,o),
+(285,0,cs),
+(225,0,o),
+(170,22,o),
+(120,68,cs)
+);
+}
+);
+width = 534;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+metricLeft = "=120";
+metricRight = "=100";
+unicode = 181;
+}

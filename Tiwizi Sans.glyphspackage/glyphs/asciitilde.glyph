@@ -1,0 +1,30 @@
+{
+glyphname = asciitilde;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+closed = 0;
+nodes = (
+(80,319,l),
+(191,571,o),
+(343,153,o),
+(443,399,cs)
+);
+}
+);
+width = 523;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+metricRight = "=|";
+unicode = 126;
+}

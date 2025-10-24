@@ -1,0 +1,39 @@
+{
+glyphname = question;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+closed = 0;
+nodes = (
+(10,669,l),
+(10,729,o),
+(10,710,o),
+(10,538,cs),
+(10,337,o),
+(10,351,o),
+(10,227,cs)
+);
+},
+{
+closed = 0;
+nodes = (
+(10,95,l),
+(10,0,l)
+);
+}
+);
+width = 410;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+unicode = 63;
+}

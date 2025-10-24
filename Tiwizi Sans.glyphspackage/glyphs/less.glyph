@@ -1,0 +1,26 @@
+{
+glyphname = less;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+alignment = 1;
+pos = (570,0);
+ref = greater;
+scale = (-1,1);
+}
+);
+width = 570;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+unicode = 60;
+}

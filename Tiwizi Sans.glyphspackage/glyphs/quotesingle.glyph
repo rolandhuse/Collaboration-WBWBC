@@ -1,0 +1,38 @@
+{
+glyphname = quotesingle;
+layers = (
+{
+anchors = (
+{
+name = "#entry";
+},
+{
+name = "#exit";
+pos = (87,0);
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 0;
+nodes = (
+(70,700,l),
+(70,545,l)
+);
+}
+);
+width = 140;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+metricLeft = "=quotesinglbase";
+metricRight = "=|";
+unicode = 39;
+}

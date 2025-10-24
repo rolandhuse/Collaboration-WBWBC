@@ -1,0 +1,28 @@
+{
+glyphname = guilsinglleft;
+layers = (
+{
+layerId = m005;
+shapes = (
+{
+closed = 0;
+nodes = (
+(228,464,l),
+(100,307,l),
+(228,150,l)
+);
+}
+);
+width = 348;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+}
+);
+unicode = 8249;
+}
