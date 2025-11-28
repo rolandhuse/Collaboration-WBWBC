@@ -200,4 +200,7 @@ width = 590;
 );
 metricLeft = "yi-tifi";
 unicode = 11618;
+userData = {
+KernOnName = "yay-tifi";
+};
 }

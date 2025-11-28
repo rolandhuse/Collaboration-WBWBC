@@ -15,10 +15,15 @@ displayStrings = (
 12
 13
 14
-",
-"ⴰⵔⵔⴱⴳⴷⵎⴹⵓⴻⴼⴽⵜⵀⵃⵄⵅⵇⵉⵊⵍⵎⵏⵓⵔⵕⵖⵙⵚⵛⵏⵜⵟⵡⵟⵢⵣⵥ",
-"ⴰⴱⴳⴷⴹⵓⴻⴼⴽⵀⵃⵄⵅⵇⵉⵊⵍⵎⵏⵓⵔⵕⵖⵙⵔⵕⵚⵛⵜⵟⵡⵢⵣⵥ",
-"ⵄⵖⵔⴱⵖ",
+
+ⵙⵚⵜⵃ
+ⵚⵀ10
+ⵜⵃⵚⵃ
+ⵜⵃ14
+ⵚⵀⵚⵃ",
+"ⴰⵔⵔⴱⴳⴷⵎⴹⵓⴻⴼⴽⵜⵀⵃⵄⵅⵇⵉⵊⵍⵎⵏⵓⵔⵕⵖⵙⵚⵛⵏ2ⵜ.ⵟⵡⵟⵢⵣⵥ",
+"ⴰⴱ#ⴳⴷⴹⵓⴻⴼⴽⵀⵃⵄⵅⵇⵉⵊⵍⵎⵏⵓⵔⵕⵖⵙⵔⵕⵚⵛⵜⵟⵡⵢⵣⵥ",
+"ⵄⵖⵔⴱⵖⵣ",
 "0125",
 "6",
 "1",
@@ -32,77 +37,82 @@ displayStrings = (
 "01",
 "8210",
 "0123456789",
-"ⴰⴱⴳⴷⴹⴻⴼⴽⵀⵃⵄⵅⵇⵉⵊⵍⵎⵏⵓⵔⵕⵖⵙⵚⵛⵜⵟⵡⵢⵣⵥⵯ0123456789⵰",
-"101",
-"ⴰⴱⴳⴽⵜⴹⴻⴼⴽⴽⵜⵃⵄⵅⵇⵉⵊⵍⵎⵏⵓⵔⵕⵖⵙⵚⵛⵜⵟⵡⵢⵣⵥⵯ0123456789",
-"⵿",
-"from GlyphsApp import 
-from vanilla import 
-
-class SideBearingsAdjusterobject
-    def initself
-         Create the dialog window
-        self.w  FloatingWindow300, 180, Adjust Side Bearings
-        
-         Add text and input fields
-        self.w.text  TextBox20, 20, -20, 20, Adjust side bearings by percentage
-        self.w.lsblabel  TextBox20, 60, 100, 20, LSB 
-        self.w.lsbinput  EditText120, 55, 60, 25, 0
-        self.w.rsblabel  TextBox20, 95, 100, 20, RSB 
-        self.w.rsbinput  EditText120, 90, 60, 25, 0
-        
-         Add apply button
-        self.w.applybutton  Button20, 135, -20, 25, Apply to Selected Glyphs, callbackself.applyadjustment
-        
-         Open the window
-        self.w.open
-    
-    def applyadjustmentself, sender
-        try
-             Get the percentage values from input fields
-            lsbpercentage  floatself.w.lsbinput.get
-            rsbpercentage  floatself.w.rsbinput.get
-            
-             Get the current font and selected glyphs
-            font  Glyphs.font
-            selectedglyphs  font.selectedLayers
-            
-             Apply the adjustment to each selected glyph
-            for layer in selectedglyphs
-                glyph  layer.parent
-                
-                 Adjust LSB
-                if lsbpercentage  0
-                    currentlsb  layer.LSB
-                    adjustment  currentlsb  lsbpercentage 100
-                    layer.LSB  currentlsb  adjustment
-                
-                 Adjust RSB
-                if rsbpercentage  0
-                    currentrsb  layer.RSB
-                    adjustment  currentrsb  rsbpercentage 100
-                    layer.RSB  currentrsb  adjustment
-                
-                printfAdjusted glyph.name LSB lsbpercentage, RSB rsbpercentage
-            
-             Update the font view
-            font.enableUpdateInterface
-            
-        except ValueError
-             Handle invalid input
-            MessagePlease enter valid numbers for percentages, titleInput Error
-        except Exception as e
-             Handle other errors
-            MessagefAn error occurred stre, titleError
-
- Run the script
-SideBearingsAdjuster0123456789 ⵰-.,",
-"ⴰⴱⴳⴷⴹⴻⴼⴽⵀⵃⵄⵅⵇⵉⵊⵍⵎⵏⵓⵔⵕⵖⵙⵚⵛⵜⵟⵡⵢⵣⵥ",
-"ⵊⵍ",
-"/.notdef :;…!¡?¿*#///backslash/exclamdown.case/questiondown.case –—_(){}[]‚„“”‘’«»‹›\"'/rolandhusedesign +−×÷=><±~¬^µ%‰",
+"‚„‘“’”'\"",
 "*",
-"0",
-"234100%",
-"ⴰⴱⴳⴷⴹⴻⴼⴽⵃⵄⵅⵇⵉⵊⵍⵎⵏⵓⵔⵕⵖⵔⵙⵚⵛⵜⵟⵡⵢⵣⵥⵯ0123456789"
+"13
+ⵙⵢ6
+ⵜⵃ
+ⵚⵀ
+
+ⵢⵙ12
+ⵢ61011
+ⵢ61011
+ⵢⵜⵯⵙ
+ⵢⵜⵢⵙ
+ⵯⵃ12
+ⵯ81412
+ⵯ61412ⵯ0
+ⵯ812ⵯ0
+ⵯ3ⵯ8
+ⵢ⵰ⵢ6ⵚⵃ
+ⵯ8ⵯ0
+ⵢ⵰ⵚⵃ
+ⵜ_ⵯⵙ
+ⵢ/questiondown.case ⵜ¿
+ⵢ-ⵜ¿
+ⵢ_ⵚ_
+ⵢ_ⵚ.
+ⵢ.ⵚ.
+ⵇⵜⵜ.
+ⵢ‚ⵜ*
+ⵢ⵰ⵯⵀ
+ⵢⵃⵢ6
+ⵢ__ⵚ",
+"13
+ⵙⵚ
+ⵚⵀ
+ⵢ4
+ⵢⵜ
+ⵜⵯ
+ⵯⵜ
+ⵢ0
+ⵯ4
+ⵯ6
+ⵢⵄ
+ⵢⵔ
+ⵢ«
+ⵚ*
+ⵢ.
+ⵇⵜ
+ⵯ0
+14
+ⵢ‚
+ⵜ_
+ⵚ_
+
+ⵢⵙⵢⵔ
+ⵜ*ⵚ*",
+"13
+ⵙⵚ
+ⵚⵀ
+ⵢ4
+ⵢⵜ
+ⵜⵯ
+ⵯⵜ
+ⵢ0
+ⵯ4
+ⵯ6
+ⵢⵄ
+ⵢ«
+ⵯ0
+14
+ⵢ‚
+ⵜ_
+ⵚ_
+ⵜ'
+ⵜ‚
+
+ⵜⵣⵢⵄ",
+"["
 );
 }

@@ -1,26 +1,49 @@
 {
 glyphname = bracketright;
+kernLeft = bracketright;
+kernRight = bracketright;
 layers = (
 {
 layerId = m005;
 shapes = (
 {
 alignment = 1;
-pos = (339,0);
+pos = (338,0);
 ref = bracketleft;
 scale = (-1,1);
 }
 );
-width = 339;
+width = 338;
 },
 {
 layerId = m004;
-width = 600;
+shapes = (
+{
+pos = (349,0);
+ref = bracketleft;
+scale = (-1,1);
+}
+);
+width = 349;
 },
 {
 layerId = m003;
-width = 600;
+shapes = (
+{
+pos = (400,0);
+ref = bracketleft;
+scale = (-1,1);
+}
+);
+width = 400;
 }
 );
 unicode = 93;
+userData = {
+KernOnName = bracketright;
+KernOnSpecialSpacing = {
+L = parenthesis;
+R = NoKerning;
+};
+};
 }

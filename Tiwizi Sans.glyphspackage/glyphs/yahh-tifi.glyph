@@ -139,4 +139,7 @@ width = 610;
 );
 metricRight = "yag-tifi";
 unicode = 11587;
+userData = {
+KernOnName = "yahh-tifi";
+};
 }

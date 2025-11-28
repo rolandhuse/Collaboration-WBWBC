@@ -1,26 +1,92 @@
 {
 glyphname = exclamdown;
+kernLeft = exclamdown;
+kernRight = exclamdown;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(202,370,ls),
+(198,370,o),
+(196,368,o),
+(196,364,cs),
+(193,-194,ls),
+(193,-198,o),
+(195,-200,o),
+(199,-200,cs),
+(214,-200,ls),
+(217,-200,o),
+(220,-197,o),
+(220,-194,cs),
+(217,364,ls),
+(217,367,o),
+(214,370,o),
+(211,370,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(191,510,o),
+(182,501,o),
+(182,488,cs),
+(182,472,o),
+(191,465,o),
+(205,465,cs),
+(218,465,o),
+(227,472,o),
+(227,488,cs),
+(227,501,o),
+(218,510,o),
+(205,510,cs)
+);
+}
+);
+};
 layerId = m005;
 shapes = (
 {
 alignment = 1;
 angle = 180;
-pos = (88,500);
+pos = (311,500);
 ref = exclam;
 }
 );
-width = 88;
+width = 311;
 },
 {
 layerId = m004;
-width = 600;
+shapes = (
+{
+alignment = 1;
+angle = 180;
+pos = (317,500);
+ref = exclam;
+}
+);
+width = 317;
 },
 {
 layerId = m003;
-width = 600;
+shapes = (
+{
+alignment = 1;
+angle = 180;
+pos = (364,500);
+ref = exclam;
+}
+);
+width = 364;
 }
 );
 unicode = 161;
+userData = {
+KernOnName = exclamdown;
+KernOnSpecialSpacing = {
+R = "spaced-off";
+};
+};
 }

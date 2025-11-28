@@ -1,28 +1,97 @@
 {
 glyphname = underscore;
+kernLeft = underscore;
+kernRight = underscore;
 layers = (
 {
 layerId = m005;
 shapes = (
 {
-closed = 0;
+closed = 1;
 nodes = (
-(10,-30,l),
-(10,-30,l)
+(402,-52,ls),
+(406,-52,o),
+(408,-50,o),
+(408,-46,cs),
+(408,-38,ls),
+(408,-34,o),
+(406,-32,o),
+(402,-32,cs),
+(104,-32,ls),
+(100,-32,o),
+(98,-34,o),
+(98,-38,cs),
+(98,-46,ls),
+(98,-50,o),
+(100,-52,o),
+(104,-52,cs)
 );
 }
 );
-width = 20;
+width = 506;
 },
 {
 layerId = m004;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(525,-104,ls),
+(544,-104,o),
+(555,-93,o),
+(555,-74,cs),
+(555,-66,ls),
+(555,-47,o),
+(544,-36,o),
+(525,-36,cs),
+(115,-36,ls),
+(96,-36,o),
+(85,-47,o),
+(85,-66,cs),
+(85,-74,ls),
+(85,-93,o),
+(96,-104,o),
+(115,-104,cs)
+);
+}
+);
+width = 640;
 },
 {
 layerId = m003;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(536,-186,ls),
+(562,-186,o),
+(576,-172,o),
+(576,-146,cs),
+(576,-100,ls),
+(576,-74,o),
+(562,-60,o),
+(536,-60,cs),
+(118,-60,ls),
+(92,-60,o),
+(78,-74,o),
+(78,-100,cs),
+(78,-146,ls),
+(78,-172,o),
+(92,-186,o),
+(118,-186,cs)
+);
+}
+);
+width = 654;
 }
 );
 metricRight = "=|";
 unicode = 95;
+userData = {
+KernOnName = underscore;
+KernOnSpecialSpacing = {
+L = underscore;
+R = underscore;
+};
+};
 }

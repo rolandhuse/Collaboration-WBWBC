@@ -324,4 +324,7 @@ width = 682;
 );
 metricLeft = "yaw-tifi";
 unicode = 11591;
+userData = {
+KernOnName = "yaq-tifi";
+};
 }

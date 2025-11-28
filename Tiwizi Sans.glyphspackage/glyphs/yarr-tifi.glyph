@@ -32,7 +32,7 @@ nodes = (
 ref = "yar-tifi";
 }
 );
-width = 825;
+width = 845;
 },
 {
 layerId = m004;

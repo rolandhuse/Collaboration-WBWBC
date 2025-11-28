@@ -1,5 +1,7 @@
 {
 glyphname = quotedbl;
+kernLeft = quotesingle;
+kernRight = quotesingle;
 layers = (
 {
 layerId = m005;
@@ -14,16 +16,42 @@ pos = (87,0);
 ref = quotesingle;
 }
 );
-width = 227;
+width = 305;
 },
 {
 layerId = m004;
-width = 600;
+shapes = (
+{
+pos = (26,0);
+ref = quotesingle;
+},
+{
+pos = (165,0);
+ref = quotesingle;
+}
+);
+width = 481;
 },
 {
 layerId = m003;
-width = 600;
+shapes = (
+{
+ref = quotesingle;
+},
+{
+pos = (159,0);
+ref = quotesingle;
 }
 );
+width = 415;
+}
+);
+metricRight = "=|";
 unicode = 34;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
 }

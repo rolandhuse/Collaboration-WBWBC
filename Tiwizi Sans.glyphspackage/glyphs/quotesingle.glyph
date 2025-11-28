@@ -1,38 +1,128 @@
 {
 glyphname = quotesingle;
+kernLeft = quotesingle;
+kernRight = quotesingle;
 layers = (
 {
 anchors = (
 {
 name = "#entry";
+pos = (39,0);
 },
 {
 name = "#exit";
-pos = (87,0);
+pos = (126,0);
 }
 );
 layerId = m005;
 shapes = (
 {
-closed = 0;
+closed = 1;
 nodes = (
-(70,700,l),
-(70,545,l)
+(112,555,ls),
+(116,555,o),
+(118,557,o),
+(118,561,cs),
+(120,704,ls),
+(120,708,o),
+(118,710,o),
+(114,710,cs),
+(104,710,ls),
+(100,710,o),
+(98,708,o),
+(98,704,cs),
+(100,561,ls),
+(100,557,o),
+(102,555,o),
+(106,555,cs)
 );
 }
 );
-width = 140;
+width = 218;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (76,0);
+},
+{
+name = "#exit";
+pos = (215,0);
+}
+);
 layerId = m004;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(137,511,ls),
+(153,511,o),
+(161,519,o),
+(162,535,cs),
+(168,684,ls),
+(169,701,o),
+(159,710,o),
+(143,710,cs),
+(103,710,ls),
+(87,710,o),
+(77,701,o),
+(78,684,cs),
+(84,535,ls),
+(85,519,o),
+(93,511,o),
+(109,511,cs)
+);
+}
+);
+width = 246;
 },
 {
+anchors = (
+{
+name = "#entry";
+pos = (66,0);
+},
+{
+name = "#exit";
+pos = (225,0);
+}
+);
 layerId = m003;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(157,511,ls),
+(173,511,o),
+(181,519,o),
+(182,535,cs),
+(188,710,ls),
+(189,727,o),
+(179,736,o),
+(163,736,cs),
+(93,736,ls),
+(77,736,o),
+(67,727,o),
+(68,710,cs),
+(74,535,ls),
+(75,519,o),
+(83,511,o),
+(99,511,cs)
+);
+}
+);
+width = 256;
 }
 );
 metricLeft = "=quotesinglbase";
 metricRight = "=|";
 unicode = 39;
+userData = {
+KernOnName = quotesingle;
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
 }

@@ -127,4 +127,7 @@ width = 825;
 );
 metricRight = "=|";
 unicode = 11604;
+userData = {
+KernOnName = "yar-tifi";
+};
 }

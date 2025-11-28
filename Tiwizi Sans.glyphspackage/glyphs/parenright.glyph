@@ -1,26 +1,47 @@
 {
 glyphname = parenright;
+kernLeft = parenright;
+kernRight = parenright;
 layers = (
 {
 layerId = m005;
 shapes = (
 {
 alignment = 1;
-pos = (331,0);
+pos = (302,0);
 ref = parenleft;
 scale = (-1,1);
 }
 );
-width = 331;
+width = 302;
 },
 {
 layerId = m004;
-width = 600;
+shapes = (
+{
+pos = (309,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 310;
 },
 {
 layerId = m003;
-width = 600;
+shapes = (
+{
+pos = (320,0);
+ref = parenleft;
+scale = (-1,1);
+}
+);
+width = 320;
 }
 );
 unicode = 41;
+userData = {
+KernOnSpecialSpacing = {
+L = parenthesis;
+};
+};
 }

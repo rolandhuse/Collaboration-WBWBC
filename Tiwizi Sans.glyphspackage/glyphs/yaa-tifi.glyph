@@ -188,4 +188,7 @@ width = 628;
 );
 metricRight = "=|";
 unicode = 11588;
+userData = {
+KernOnName = "yaa-tifi";
+};
 }

@@ -14,7 +14,7 @@ ref = "yarr-tifi";
 scale = (1,-1);
 }
 );
-width = 825;
+width = 845;
 },
 {
 layerId = m004;
@@ -44,4 +44,7 @@ width = 825;
 metricLeft = "yar-tifi";
 metricRight = "yar-tifi";
 unicode = 11610;
+userData = {
+KernOnName = "yass-tifi";
+};
 }

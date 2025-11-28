@@ -1,25 +1,117 @@
 {
 glyphname = questiondown.case;
+kernLeft = questiondown.case;
+kernRight = questiondown.case;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(187,540,ls),
+(184,540,o),
+(182,537,o),
+(182,534,cs),
+(182,473,ls),
+(182,438,o),
+(170,411,o),
+(143,384,cs),
+(65,308,ls),
+(18,262,o),
+(-20,229,o),
+(-20,157,cs),
+(-20,58,o),
+(54,-10,o),
+(160,-10,cs),
+(265,-10,o),
+(334,56,o),
+(347,153,cs),
+(348,157,o),
+(346,159,o),
+(342,159,cs),
+(332,159,ls),
+(329,159,o),
+(326,157,o),
+(325,153,cs),
+(311,62,o),
+(246,12,o),
+(159,12,cs),
+(70,12,o),
+(2,63,o),
+(2,157,cs),
+(2,223,o),
+(39,249,o),
+(89,299,cs),
+(161,370,ls),
+(189,398,o),
+(204,428,o),
+(204,473,cs),
+(204,534,ls),
+(204,538,o),
+(202,540,o),
+(198,540,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(176,710,o),
+(167,701,o),
+(167,688,cs),
+(167,672,o),
+(176,665,o),
+(190,665,cs),
+(203,665,o),
+(212,672,o),
+(212,688,cs),
+(212,701,o),
+(203,710,o),
+(190,710,cs)
+);
+}
+);
+};
 layerId = m005;
 shapes = (
 {
 alignment = 1;
 angle = 180;
-pos = (410,700);
+pos = (520,700);
 ref = question;
 }
 );
-width = 410;
+width = 520;
 },
 {
 layerId = m004;
-width = 600;
+shapes = (
+{
+alignment = 1;
+angle = 180;
+pos = (538,700);
+ref = question;
+}
+);
+width = 538;
 },
 {
 layerId = m003;
-width = 600;
+shapes = (
+{
+alignment = 1;
+angle = 180;
+pos = (560,720);
+ref = question;
 }
 );
+width = 560;
+}
+);
+userData = {
+KernOnName = questiondown.case;
+KernOnSpecialSpacing = {
+R = "spaced-off";
+};
+};
 }
